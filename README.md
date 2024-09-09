@@ -1,4 +1,6 @@
 
+<img src="images/logo.jpg" width="128" /> 
+
 Sociedade de Amigos da Prainha da Saudade, SAPINHAS. Penha, Santa Catarina.
 
 ## Relatórios
