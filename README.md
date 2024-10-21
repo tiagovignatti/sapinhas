@@ -27,7 +27,8 @@ Sociedade de Amigos da Prainha da Saudade, SAPINHAS. Penha, Santa Catarina.
     - [Ficha Associado.xlsx](<docs/Ficha Associado.xlsx>)
 
 - 2024
-    - 
+    - [Carta compromisso candidatos a prefeito](<docs/2024/Carta_aos_Candidatos_a_Prefeito_29_assinado_AMAPGassinado_assinado_assinado.pdf>)
+    - [Comunicado interno 26.08.2024](<docs/2024/Comunicado 26.08.2024.pdf>)
 
 ## Links
 - Instagram 
