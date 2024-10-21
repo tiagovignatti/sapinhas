@@ -5,7 +5,7 @@ Sociedade de Amigos da Prainha da Saudade, SAPINHAS. Penha, Santa Catarina.
 
 ## Relatórios
  - Registro textual dos encontros
-    - [Reunião 2024 Nov 10](<encontros/SAPINHAS - Reunião 2024 Nov 10.html>)
+    - [Reunião 2024 Nov 10](<reunioes/2024-Nov-10.html>)
  - ATAs
  - Relatórios da Gestão
 
