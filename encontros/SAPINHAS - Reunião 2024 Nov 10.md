@@ -76,10 +76,12 @@ Outros tópicos
   * Precisamos de mais colaboração, principalmente de novos membros  
 * Bete e preocupação com o plantio de vegetação exótica invasora  
 * Plcas de segurança e Câmera na João Francisco das Neves  
-  * Precisa ver com o Sargento da PM  
-* Fim da reunião as 21:30
+  * Precisa ver com o Sargento da PM
 
-**Prioridades** \- **veicular somente no grupo dos Associados**:  
+Fim da reunião as 21:30
+
+### **Prioridades \- veicular somente no grupo dos Associados:**
+
 1\. Pinturas, lombada, meio-fio, tubos e instalação de placas
 
 * A prefeitura se comprometeu a fazer caso fornecêssemos a tinta  
