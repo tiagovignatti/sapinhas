@@ -4,7 +4,9 @@
 Sociedade de Amigos da Prainha da Saudade, SAPINHAS. Penha, Santa Catarina.
 
 ## Relatórios
- - ATAs e registro textual de todos encontros
+ - Registro textual dos encontros
+    - [Reunião 2024 Nov 10](<encontros/SAPINHAS - Reunião 2024 Nov 10.md>)
+ - ATAs
  - Relatórios da Gestão
 
 ## Prestação de Contas
@@ -20,8 +22,12 @@ Sociedade de Amigos da Prainha da Saudade, SAPINHAS. Penha, Santa Catarina.
 
 ## Documentos
 
-- [Estatuto Oficial da SAPINHAS.pdf](<docs/Estatuto Oficial da SAPINHAS.pdf>)
-- [Ficha Associado.xlsx](<docs/Ficha Associado.xlsx>)
+- Principais
+    - [Estatuto Oficial da SAPINHAS.pdf](<docs/Estatuto Oficial da SAPINHAS.pdf>)
+    - [Ficha Associado.xlsx](<docs/Ficha Associado.xlsx>)
+
+- 2024
+    - 
 
 ## Links
 - Instagram 
