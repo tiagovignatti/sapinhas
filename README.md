@@ -15,10 +15,10 @@ Quem é quem
  <details>
  <summary>Reunião online 2024, Novembro</summary>
 
-A reunião de 10 de novembro de 2024 discutiu podas de árvores, projetos de decks e melhorias de acessibilidade, mas muitos planos não avançaram devido à falta de recursos da prefeitura. Foi destacada a necessidade de chuveiros na praia, sinalização e manutenção de espaços públicos. Doações arrecadadas visam a construção de um posto de saúde. Questões de trânsito e fiscalização também foram debatidas, assim como a preocupação com vegetação exótica e vandalismo. A reunião encerrou às 21h30.
+A reunião de 18 de outubro de 2024 discutiu podas de árvores, projetos de decks e melhorias de acessibilidade, mas muitos planos não avançaram devido à falta de recursos da prefeitura. Foi destacada a necessidade de chuveiros na praia, sinalização e manutenção de espaços públicos. Doações arrecadadas visam a construção de um posto de saúde. Questões de trânsito e fiscalização também foram debatidas, assim como a preocupação com vegetação exótica e vandalismo. A reunião encerrou às 21h30.
  </details>
  
- - [anotações](<reunioes/2024-Nov-10.html>)
+ - [anotações](<reunioes/2024-Out-18.html>)
 
 
 ## Documentos
